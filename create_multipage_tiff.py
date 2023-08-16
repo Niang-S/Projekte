@@ -1,5 +1,5 @@
 # Author: Sohibou Niang
-# Created on 16.08.2023 at 13:40
+# Created on 16.08.2023 at 13:40 using venv python 3.11
 ## Generate a multipage tiff, gif and pdf from images in a folder
 # This has the purpose of comparing the size of the mutipage documents between themselves and to 
 # the sum of the size of the standalone images
